@@ -44,7 +44,7 @@ python -m pip install -r requirements-test.txt
 python tests/run_model.py
 ```
 
-测试覆盖跳跃、平台判定、抽奖去重、次数扣除、开盒恢复、存档回滚、排行榜失败重试及账号切换。GitHub Actions 在推送和 Pull Request 时运行同一组检查。它不代替实机体验、原生界面或线上排行榜验收，也不会自动提交 TapTap 审核。
+测试覆盖跳跃、平台判定、抽奖去重、次数扣除、开盒恢复、存档回滚、排行榜失败重试及账号切换。仓库附有 [GitHub Actions 模板](ci/gameplay-rules.yml)。要在推送和 Pull Request 时自动运行这些检查，请将模板放入 `.github/workflows/ci.yml`。原生界面和线上排行榜需要另行实机验收。
 
 ## 已知边界
 

@@ -1,0 +1,116 @@
+{
+  "method": "built-in image_gen; original PNG outputs copied unchanged",
+  "basePrompt": "Use case: identity-preserve. Create ONE production-ready transparent PIXEL ART costume animation spritesheet for the SAME yellow pear-shaped Naiwa frog from reference 1, matching existing finished costume reference 2. The creature's two protruding green-black eyes, blunt long yellow snout, huge cream oval belly, dark olive mitten hands and stubby feet MUST stay identical. NOT a human, NOT a new character. Only dress the existing body. Exactly 4 columns x 4 rows, 16 sprites on 1024x1024 transparent canvas, equal 256px cells, each sprite entirely inside its own cell with 16px padding, never touch or crop cell edges. Match scale and baseline across frames. Face left three-quarter. Crisp chunky square pixels, dark olive outline, limited warm shading. No text, no numbers, no grid lines, no scenery, no cast shadow. Row1=4 subtle idle breathing frames; row2=4 walking frames with alternating feet; row3=4 laughing mouth-open happy frames; row4=4 distinct jump poses in order crouching, airborne legs tucked, landing squashed, recovering upright. Preserve true alpha transparency. Clothing follows the pose, never disconnected limbs. Costume: ",
+  "prompts": [
+    [
+      "honey",
+      "Honey messenger: amber aviator goggles resting on the forehead above the eyes, short honey-yellow and dark brown striped vest, tiny pale translucent decorative bee wings behind shoulders, small brown mail satchel at hip. Original face/body unchanged. Do not draw antennas through the eyes. No logos."
+    ],
+    [
+      "mushroom",
+      "Mushroom traveler: low warm brick-red mushroom-shaped hood with 4 simple cream dots, face fully exposed, short moss-green cloak with cream collar, little brown shorts. Hood follows original round head, don't turn the character into a mushroom creature."
+    ],
+    [
+      "winter",
+      "Cozy winter picnic: fluffy cream earmuffs with terracotta knitted head band, a broad warm terracotta scarf and short cream quilted jacket open over belly, small matching boot cuffs. Face never obscured, mittens keep original shape."
+    ],
+    [
+      "firefly",
+      "Firefly lantern keeper: small deep teal hood with a warm golden star clasp beside the head, deep teal cape lined pale mint, tiny amber lantern securely attached to belt at hip, simple gold hem trim. Lantern stays attached, no handheld prop. Face fully exposed, belly visible."
+    ],
+    [
+      "stargazer",
+      "Starry observatory astronomer: short deep violet conical hat bent at its tip with small pale gold star dots, blue-indigo open cape lined dark starry blue, wide small golden crescent brooch below neck, soft violet slippers. Face unchanged; no beard, no wand. Elegant but chunky pixel art."
+    ],
+    [
+      "lotuskeeper",
+      "Lotus guardian: crown made from three small pale pink lotus petals and a cream central bud, short layered pink lotus-petal shoulder cape and cream tunic with teal trim, gold wrist bands. Large yellow and cream belly remains visible. Regal, kind, original pond-themed costume without weapons or another franchise's motifs."
+    ],
+    [
+      "bathrobe",
+      "Playful original bathrobe outfit: soft pale mint short bathrobe tied loosely below the cream belly with clearly visible open front, rolled cream towel resting on top of the head with 3 small white foam bubbles, fluffy cream slippers. No floating bubbles outside cells. Head and green eyes fully exposed. Silly cozy 'just out of bath' mood. TWO arms and TWO feet only. Crouch and landing must not create additional yellow appendages."
+    ],
+    [
+      "box",
+      "Silly cardboard stealth costume: a small open brown cardboard box worn around the belly as a vest, clear arm holes and leg openings, folded flaps at shoulders, simple hand-drawn green leaf emblem, one tiny cardboard flap cap perched behind the eyes. Original head and green eyes entirely visible; yellow rounded body never becomes cuboid, legs are two short original legs. Nothing held in hands. Box bends at folds when crouching, hands visibly in front of cardboard."
+    ],
+    [
+      "eggknight",
+      "Comical fried-egg hero: a white fried-egg shoulder cape with uneven scalloped edge draped BEHIND the arms, one round golden yolk brooch over chest, tiny white egg-shaped beret with small golden yolk dome on top. No real egg covering eyes or mouth. Original huge cream belly fully visible, dark olive hands and feet. Keep both arms visibly in front of cape; only two arms and two feet."
+    ]
+  ],
+  "sailorFixPrompt": "Edit this exact Naiwa sailor 4x4 16-frame spritesheet. Preserve the SAME original yellow creature, green eyes, snout, big cream belly, stubby legs, pixel palette and 16 distinct original poses. Fix clothing/limb clipping in EVERY frame. Replace its confusing closed shirt with a clearly OPEN-FRONT SHORT NAVY SAILOR JACKET: two separate narrow fabric lapels, a continuous cream sailor collar attached over shoulders and behind arms, small teal scarf tied neatly under chin. The belly is exposed because jacket is open, NOT passing through fabric. Each short sleeve must terminate at a continuous navy-and-cream cuff, with exactly one yellow forearm and dark olive mitten visibly emerging OUTSIDE it. Both hands stay IN FRONT of the belly and jacket in all poses. NAVY shorts with two separate leg openings; TWO dark olive feet emerge below. CRITICAL: in bottom-row crouch and landing poses REMOVE the extra yellow blob protruding at the right hip; it is a duplicated limb/body fragment and must not exist. The cream belly has a clean continuous outline against the clothing. No detached hands, no extra appendages. Keep small navy/cream sailor cap clear of the eyes. Transparent background, no text. 4x4 equal cells, all 16 figures entirely inside respective cells with transparent gutters. Retain pixel art with thick olive outline; no smoothing.",
+  "newAssets": [
+    {
+      "id": "gardener",
+      "source": "assets/image/skins/gardener.png",
+      "source_artifact": "exec-48ccefbb-55ac-4c81-aa6f-37c697bc37a5.png"
+    },
+    {
+      "id": "baker",
+      "source": "assets/image/skins/baker.png",
+      "source_artifact": "exec-97d0fe4f-e32c-4f9a-8b5b-0bd08d77f5b4.png"
+    },
+    {
+      "id": "sailor",
+      "source": "assets/image/skins/sailor.png",
+      "source_artifact": "exec-9260f75a-8f36-4122-a2a8-2deb683c2742.png"
+    },
+    {
+      "id": "honey",
+      "source": "assets/image/skins/honey.png",
+      "source_artifact": "exec-33ef0e9d-9381-467c-9334-a4779e5381c5.png"
+    },
+    {
+      "id": "mushroom",
+      "source": "assets/image/skins/mushroom.png",
+      "source_artifact": "exec-6cb88ae8-0a68-46da-b9b9-874704816cb7.png"
+    },
+    {
+      "id": "winter",
+      "source": "assets/image/skins/winter.png",
+      "source_artifact": "exec-ddb91936-3915-4d5d-a2c6-6515f8e9fa9d.png"
+    },
+    {
+      "id": "firefly",
+      "source": "assets/image/skins/firefly.png",
+      "source_artifact": "exec-a2ec37bb-19e1-4968-a3bb-ec17d04e7031.png"
+    },
+    {
+      "id": "stargazer",
+      "source": "assets/image/skins/stargazer.png",
+      "source_artifact": "exec-f8e0fcac-db92-45bc-b7e9-d5c4a49b525c.png"
+    },
+    {
+      "id": "lotuskeeper",
+      "source": "assets/image/skins/lotuskeeper.png",
+      "source_artifact": "exec-1043394d-aafa-44da-b987-e6dbf819a108.png"
+    },
+    {
+      "id": "bathrobe",
+      "source": "assets/image/skins/bathrobe.png",
+      "source_artifact": "exec-1f5e8361-445d-4fc4-8297-b1078fc28fcf.png"
+    },
+    {
+      "id": "box",
+      "source": "assets/image/skins/box.png",
+      "source_artifact": "exec-de058966-4276-4aa1-9e07-3c6cff103969.png"
+    },
+    {
+      "id": "eggknight",
+      "source": "assets/image/skins/eggknight.png",
+      "source_artifact": "exec-c14b3f7e-3eec-401d-adc7-3cb93a07c07a.png"
+    }
+  ],
+  "existingIds": [
+    "lotusrain",
+    "milkman",
+    "magician",
+    "conductor",
+    "safety",
+    "knight",
+    "astronaut",
+    "newyear",
+    "pajama"
+  ]
+}

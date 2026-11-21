@@ -1,0 +1,11 @@
+{
+  "name": "像素奶蛙跳一跳",
+  "version": "0.4.1",
+  "entry": "main.lua",
+  "description": {
+    "short": "在大小不同的奶系动物浮台间跳跃，落水后抓盲盒，收集搞怪时装。"
+  },
+  "author": {
+    "name": "NaiwaPixel"
+  }
+}

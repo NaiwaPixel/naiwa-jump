@@ -1,0 +1,236 @@
+[
+  {
+    "id": "original",
+    "size": [
+      1264,
+      1244
+    ],
+    "frames": 16,
+    "sha256": "57091a81e1614097ffd08b6b54d9850fc35e09e6d4065959728ff05e88268a34"
+  },
+  {
+    "id": "lotusrain",
+    "size": [
+      1265,
+      1244
+    ],
+    "frames": 16,
+    "sha256": "aa1a3c62de4db9cd86cbdc4dd33b7d4aefc19986578af28f3e335c80d98dcd5f"
+  },
+  {
+    "id": "milkman",
+    "size": [
+      1264,
+      1244
+    ],
+    "frames": 16,
+    "sha256": "7936ef03a9b032ad5be627fdc26773624c6c690da104792e42c0d220b0ddcc7d"
+  },
+  {
+    "id": "magician",
+    "size": [
+      1265,
+      1244
+    ],
+    "frames": 16,
+    "sha256": "1b16c298d3f5cece1661eba6832ef7b4b17bea66be0095c0755d3d2a09d084f4"
+  },
+  {
+    "id": "conductor",
+    "size": [
+      1265,
+      1244
+    ],
+    "frames": 16,
+    "sha256": "f291425250a480d717cc20773c2d8e1a375c49b2f8de8466ed07e0893c10f19a"
+  },
+  {
+    "id": "safety",
+    "size": [
+      1265,
+      1244
+    ],
+    "frames": 16,
+    "sha256": "4fcf344bd5be47742b5f5f9f0b7c8ad3db4f34bf96bc0f5ce783a8042ce71b0a"
+  },
+  {
+    "id": "knight",
+    "size": [
+      1265,
+      1244
+    ],
+    "frames": 16,
+    "sha256": "dda0135e0770b35fe9ab2a094b2502425ef8d9e7cc0480c33006de35b4641866"
+  },
+  {
+    "id": "astronaut",
+    "size": [
+      1265,
+      1244
+    ],
+    "frames": 16,
+    "sha256": "1628f59fe7603da906e3a969d3ecbaf6c1ac3efa59e375454ec1f18e92a264b2"
+  },
+  {
+    "id": "newyear",
+    "size": [
+      1265,
+      1244
+    ],
+    "frames": 16,
+    "sha256": "56b0493a67e570874d5890f13948bff77f66e231aa6ff267cdee6c7f0575c6c8"
+  },
+  {
+    "id": "pajama",
+    "size": [
+      1265,
+      1244
+    ],
+    "frames": 16,
+    "sha256": "2b4e4c264c661000b7051bbc601b308009747bacb9ec802575a5e50d2270ba5a"
+  },
+  {
+    "id": "gardener",
+    "size": [
+      1254,
+      1254
+    ],
+    "frames": 16,
+    "sha256": "0c16811b95fb61ae8f40cd3a2ff3150718dddcdb721f972b793e0f2b0e695607"
+  },
+  {
+    "id": "baker",
+    "size": [
+      1254,
+      1254
+    ],
+    "frames": 16,
+    "sha256": "4879019efcc9b074fb2ab9eb890629801dcb93acbe5a576e1325813febda716a"
+  },
+  {
+    "id": "sailor",
+    "size": [
+      1254,
+      1254
+    ],
+    "frames": 16,
+    "sha256": "a0d91143a8a5c90d5e1e4896ff0ca2b0de1973d7ebf13fbf441a33f17644e4f6"
+  },
+  {
+    "id": "honey",
+    "size": [
+      1254,
+      1254
+    ],
+    "frames": 16,
+    "sha256": "0901f8f333cf4a441a174acbca0c761077c96537bc24dcae1667d85f1181c5c6"
+  },
+  {
+    "id": "mushroom",
+    "size": [
+      1254,
+      1254
+    ],
+    "frames": 16,
+    "sha256": "a8728b9bc8069bb017e947f14a7170899c8b2467ebbc66cb4ca7a39076d95b53"
+  },
+  {
+    "id": "winter",
+    "size": [
+      1254,
+      1254
+    ],
+    "frames": 16,
+    "sha256": "77bb1edfc7a66b2ccbd7c373966f2dd702d17c30be8744faaa9686b6b1e78400"
+  },
+  {
+    "id": "firefly",
+    "size": [
+      1254,
+      1254
+    ],
+    "frames": 16,
+    "sha256": "53b9698ae9f81c24ff229502155e3bb1e18c6b0cd7a3660de1fb5db519d0921e"
+  },
+  {
+    "id": "stargazer",
+    "size": [
+      1254,
+      1254
+    ],
+    "frames": 16,
+    "sha256": "f45a43457e6c87d9e2e51d8e8c57ee5b9e84b2f7fc0dbe48080c1d26a7d54734"
+  },
+  {
+    "id": "lotuskeeper",
+    "size": [
+      1254,
+      1254
+    ],
+    "frames": 16,
+    "sha256": "d21341be62121362bc3529e565044486fde5d376c0d630b688ce25e63b73b09e"
+  },
+  {
+    "id": "bathrobe",
+    "size": [
+      1254,
+      1254
+    ],
+    "frames": 16,
+    "sha256": "b03fd3f60e286f92f4a6866d6331f14bcd4d775e65932527c93e1914fbb1d94c"
+  },
+  {
+    "id": "box",
+    "size": [
+      1254,
+      1254
+    ],
+    "frames": 16,
+    "sha256": "8b838877fc2c2994cf0bdd1373a945ad1fcc1a3d8f4f64ea3fd21013b033e7d8"
+  },
+  {
+    "id": "eggknight",
+    "size": [
+      1254,
+      1254
+    ],
+    "frames": 16,
+    "sha256": "43aa135d43e1920b51669656285e1aef6cd4939454eb976312f893fbfbd6852c"
+  },
+  {
+    "id": "toilet",
+    "size": [
+      1261,
+      1247
+    ],
+    "frames": 16,
+    "sha256": "e1c3e4740ef77bb0218cf2c9d3e98bd58ce1a1837cb14a8c2fae69ce2fdbbc94"
+  },
+  {
+    "id": "socks",
+    "size": [
+      1261,
+      1247
+    ],
+    "frames": 16,
+    "sha256": "c176797a914663cc5450f54f1acf5d94b744bd720bf0ef8a896cc4cd4bda0d04"
+  },
+  {
+    "id": "trash",
+    "size": [
+      1265,
+      1243
+    ],
+    "frames": 16,
+    "sha256": "33ef522b2ef3a971c93738e15e7f2e88dcde5173850de185463251ce6b17a440"
+  },
+  {
+    "id": "saltfish",
+    "size": [
+      1254,
+      1254
+    ],
+    "frames": 16,
+    "sha256": "58d26ae34f57820bee6e5534f803c0f59a06050272a52a53fb6182f8c36cc41b"
+  }
+]

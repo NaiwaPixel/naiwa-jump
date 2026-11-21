@@ -1,0 +1,78 @@
+{
+  "leaf": {
+    "name": "奶猫浮台",
+    "file": "image/ui/animal-platforms-v1.png",
+    "rect": [
+      54,
+      146,
+      530,
+      358
+    ],
+    "cx": 317,
+    "cy": 258,
+    "rx": 253,
+    "ry": 109,
+    "sizes": [
+      58,
+      70,
+      82
+    ]
+  },
+  "stream": {
+    "name": "奶龟浮台",
+    "file": "image/ui/animal-platforms-v1.png",
+    "rect": [
+      657,
+      144,
+      554,
+      371
+    ],
+    "cx": 934,
+    "cy": 270,
+    "rx": 260,
+    "ry": 118,
+    "sizes": [
+      60,
+      70,
+      80
+    ]
+  },
+  "sink": {
+    "name": "奶鼠浮台",
+    "file": "image/ui/animal-platforms-v2.png",
+    "rect": [
+      60,
+      741,
+      503,
+      397
+    ],
+    "cx": 312,
+    "cy": 924,
+    "rx": 240,
+    "ry": 104,
+    "sizes": [
+      56,
+      66,
+      76
+    ]
+  },
+  "spring": {
+    "name": "奶兔浮台",
+    "file": "image/ui/animal-platforms-v2.png",
+    "rect": [
+      676,
+      704,
+      505,
+      435
+    ],
+    "cx": 928,
+    "cy": 926,
+    "rx": 240,
+    "ry": 104,
+    "sizes": [
+      60,
+      72,
+      84
+    ]
+  }
+}

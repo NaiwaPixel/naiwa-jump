@@ -1,0 +1,5 @@
+# Preserve the verified source snapshot and all original asset bytes.
+* -text whitespace=cr-at-eol
+*.png binary
+*.wav binary
+*.ttf binary

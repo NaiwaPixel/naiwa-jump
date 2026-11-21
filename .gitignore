@@ -1,0 +1,41 @@
+# Local dependencies and test output
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+.test-runs/
+.cache/
+.build/
+dist/
+logs/
+*.log
+
+# Account bindings, credentials and local tools
+.env
+.env.*
+!.env.example
+.maker/
+.maker-mcp/
+.maker-preview/
+.cli/
+.installer/
+.codex/
+.claude/
+.cursor/
+.agents/
+.emmylua/
+engine-docs/
+examples/
+schemas/
+templates/
+tools/
+urhox-libs/
+_uploads/
+_outputs/
+
+# Personal handoff files and generated previews
+交付/
+*.zip
+.DS_Store
+Thumbs.db

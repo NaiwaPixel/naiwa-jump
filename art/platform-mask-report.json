@@ -1,0 +1,26 @@
+{
+  "leaf": {
+    "sha256": "6cf5d298bbd9ea88c20949a4ac31182bc0b01a0a9ab77f0351da1e31e33cf6b9",
+    "opaque_component_pixels": 146477,
+    "rows": 90,
+    "sample_step": 4
+  },
+  "stream": {
+    "sha256": "6cf5d298bbd9ea88c20949a4ac31182bc0b01a0a9ab77f0351da1e31e33cf6b9",
+    "opaque_component_pixels": 150331,
+    "rows": 93,
+    "sample_step": 4
+  },
+  "sink": {
+    "sha256": "70c9cb87c6d46fdcd7811c2f21fd15364047f406c04610a2d5fbc078171fcd86",
+    "opaque_component_pixels": 146267,
+    "rows": 100,
+    "sample_step": 4
+  },
+  "spring": {
+    "sha256": "70c9cb87c6d46fdcd7811c2f21fd15364047f406c04610a2d5fbc078171fcd86",
+    "opaque_component_pixels": 145521,
+    "rows": 109,
+    "sample_step": 4
+  }
+}

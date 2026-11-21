@@ -1,0 +1,41 @@
+{
+  "method": "built-in image_gen",
+  "style": "Original Naiwa pixel art; olive/gold controls; no dairy-product décor, pink candy styling or pond vegetation.",
+  "assets": [
+    {
+      "name": "animal-platforms",
+      "file": "assets/image/ui/animal-platforms-v1.png",
+      "src": "assets/image/ui/animal-platforms-v1.png",
+      "usage": "Only first row (approved cat/turtle) used",
+      "prompt": "Use case: stylized-concept. Production transparent pixel-art game sprite atlas, 1024x1024 square, EXACTLY 2 columns by 2 rows with equal 512x512 cells. Four dairy-family cute animal-shaped floating jump platforms, no lotus or leaves. Reference images in order: approved milk cat, milk turtle, milk rabbit, milk mouse; use their identity, butter-yellow bodies, cream features, thick dark warm olive pixel outlines, simple green-black eyes, neat warm shading. These are soft animal-shaped FLOATING CUSHION ISLANDS, low wide squat bodies with a broad almost flat oval back/top which a separate game hero can stand on. Front-upper 3/4 camera looking down about 45 degrees, identical perspective for all. Each island silhouette width around 400 pixels, main oval top height around 240 pixels, centered within cell; generous transparent gaps. Top/back plane must be broad and empty for landing, decorative face on FRONT rim at bottom of oval, ears or turtle head must not occupy center. Top left: milk CAT cushion, tiny triangular ears, round chubby gold body, cream top, friendly simple eyes and tiny smile. Top right: milk TURTLE cushion, cream/golden shell oval with understated shell tiles and small cute head projecting lower-front, four tiny flippers; no water drawn. Bottom left: milk MOUSE cushion, large round flat ears at rear, no neck, round chubby body, cream oval top, mildly sleepy expression. Bottom right: milk RABBIT cushion, two soft long ears folded outward behind top, cream top and tiny pink cheek accent, cheerful face on near rim. All top planes same flat oval footprint. Explicitly no necks, no long humanoid limbs, no separate pedestals, no leaf shapes, no writing, no letters, no symbols, no marker at center, no outer drop shadow or waves. Clean discrete pixels, no soft alpha speckles, no blurry 3D gloss, no checkerboard. Output true transparent alpha.",
+      "source_artifact": "exec-a3d655f2-3a2e-491a-ac6c-454b4f5c5bef.png"
+    },
+    {
+      "name": "animal-platforms-v2",
+      "file": "assets/image/ui/animal-platforms-v2.png",
+      "src": "assets/image/ui/animal-platforms-v2.png",
+      "usage": "Only second row (revised mouse/rabbit) used",
+      "prompt": "Use case: precise-object-edit. Edit FIRST image, a transparent 2x2 atlas of 4 animal floating cushions. Keep TOP LEFT CAT and TOP RIGHT TURTLE completely unchanged, same pixels/design/placement/size. Redesign ONLY BOTTOM TWO cushions to be cute and more faithful to original characters in reference images 2(mouse) and 3(rabbit). Keep 2x2 grid, separated transparent cells, broad flat cream oval landing top of same width as upper two, same camera. BOTTOM LEFT mouse: softly rounded golden bean cushion body, two compact round ears attached directly to body without neck, natural original milk-mouse face: open green-black dot eyes with tiny highlight and small short smile, placed on FRONT RIM below landing top, tiny paws tucked neatly together; friendly, no huge closed eye eyebrows, no snout, no creepy oversized human expression. Reduce ears to 60 percent current size, tuck behind body silhouette. BOTTOM RIGHT rabbit: original milk rabbit identity in ref3, two SMALL upright rounded bunny ears attached behind upper edge of a thick softly rounded cushion, no giant drooping ears and no angular boomerang flaps. Green-black dot eyes and tiny closed smile on lower-front rim, tiny front paws, gentle neutral cute face, NO gaping mouth, no overdone cheeks. Broad empty cream oval surface needed for gameplay landing on each. Same butter-yellow/cream limited palette and thick dark olive pixel outline as top2 and original references. No leaf shapes, no extra pedestal, no text or center target marker, no new props. True transparent background with clean alpha. Preserve upper two exactly.",
+      "source_artifact": "exec-1e4b2f0d-742d-45b1-88ba-e7a1ac4cac88.png"
+    },
+    {
+      "name": "naiwa-buttons",
+      "file": "assets/image/ui/naiwa-buttons.png",
+      "src": "assets/image/ui/naiwa-buttons.png",
+      "usage": "Primary/secondary idle/pressed controls",
+      "prompt": "Use case: stylized-concept. Production UI sprite atlas for the existing Naiwa PIXEL GAME, use reference only for pixel edge/shading/palette consistency. It is NOT a dairy shop and NOT a kawaii candy game. Draw EXACTLY FOUR blank wide rectangular UI buttons arranged vertically in 4 equal rows on transparent background, 1024x1024. Each button x64..960 and within its 256px row y48..208. Restrained simple classic game controls, slightly stepped corners, dark OLIVE outlines matching the character's hands and feet. Flat local colors and just ONE narrow pixel highlight on top and ONE small pixel lower lip, no complex bevels. Row1 warm ochre yellow button normal. Row2 same ochre yellow button pressed, slightly darker and lower lip reduced. Row3 muted olive green button normal. Row4 same olive green button pressed. Understated, utilitarian, adult-friendly funny pixel adventure style. Exact equal dimensions and solid blank wide center on all rows for UI text. No text, icons, characters, cute faces, milk bottles, cheese, frosting, stars, ribbons, sparkles, pink, hearts, wood, gloss, gradients, glow or fake checkerboard. Transparent alpha background.",
+      "source_artifact": "exec-ef4df260-83ec-45f5-a9f7-182ea368b8c1.png"
+    }
+  ],
+  "discarded": [
+    "milk-home",
+    "milk-home-simple",
+    "milk-controls",
+    "milk-panel",
+    "milk-cabinet"
+  ],
+  "notes": [
+    "Raw PNGs are copied unchanged; atlas cells are cropped only during runtime rendering.",
+    "The two approved top-row animal images are sourced from v1 verbatim."
+  ]
+}
